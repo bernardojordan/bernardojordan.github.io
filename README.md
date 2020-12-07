@@ -24,6 +24,10 @@ Accuracy Results show that the Pathway Approach gave an increase in Accuracy for
 
 <img src="Images/Accuracy Results.PNG" width="470" height="200" />
 
+Pathway Node directly connected to the Glioblastoma Node in the Pathway Approach Bayesian Network.
+
 <img src="Images/Pathway network snippet.png" width="470" height="200" />
+
+Gene Nodes directly connected to the Glioblastoma Node in the Gene Bayesian Network.
 
 <img src="Images/Gene network snippet.png" width="470" height="200" />
