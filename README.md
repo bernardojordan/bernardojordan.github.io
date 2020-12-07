@@ -21,19 +21,19 @@ To achieve the goals laid out, Pathway Eigengenes were first created using a pac
 ### Results
 Accuracy Results show that the Pathway Approach gave an increase in Accuracy for most models. In additon, the Bayesian Network was non-inferior to the other models.
 
-<img src="Images/Accuracy Results.PNG" width="470" height="200" />
+<img src="Images/Accuracy Results.PNG" width="600" height="300" />
 
 Pathway Node directly connected to the Glioblastoma Node in the Pathway Approach Bayesian Network.
 
-<img src="Images/Pathway network snippet.png" width="470" height="200" />
+<img src="Images/Pathway network snippet.png" width="600" height="300" />
 
 Gene Nodes directly connected to the Glioblastoma Node in the Gene Bayesian Network.
 
-<img src="Images/Gene network snippet.png" width="470" height="200" />
+<img src="Images/Gene network snippet.png" width="600" height="300" />
 
 Literature Analysis of the nodes connected to Glioblastoma. The Gene network made more connections but they are not all biologically relevent while the Pathway Network is. This shows the advantages of using a Pathway Approach for clinical relevance.
 
-<img src="Images/Literature Analysis.PNG" width="470" height="200" />
+<img src="Images/Literature Analysis.PNG" width="600" height="300" />
 
 ### Conclusion
 
