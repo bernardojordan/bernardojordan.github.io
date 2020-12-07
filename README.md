@@ -38,4 +38,4 @@ Literature Analysis of the nodes connected to Glioblastoma. The Gene network mad
 
 ### Conclusion
 
-The Pathway Approach created models that were biologically relevant and more accurate than models created using Genes. In addition, the Bayesian Network approach proved to be advantageous because it can be used to delineate pathways that are associated with Glioblastoma, unlike the other algorithms that function more as a classifier. If combined with new research, this approach could be used to help clinicans detect Glioblastoma earlier and better coordinate treatment in hopes of raising the survival rate of patients. 
+The Pathway Approach created models that were biologically relevant and more accurate than models created using Genes. In addition, the Bayesian Network approach proved to be advantageous because it can be used to delineate pathways that are associated with Glioblastoma, unlike the other algorithms that function more as a classifier. If combined with new research, this approach could be used to help Clinicans detect Glioblastoma earlier and better coordinate treatment in hopes of raising the survival rate of patients. 
