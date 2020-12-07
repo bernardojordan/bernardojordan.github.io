@@ -16,3 +16,4 @@ The dataset used was the REMBRANT dataset. This dataset consisted of genetic exp
 ### Methods
 To achieve the goals laid out, Pathway Eigengenes were first created using a package called PathwayPCA. These Pathway Eigengenes are representative of a biological pathway. The Pathway Eigengenes were then used to create a Bayesian Network that could be used as a predictive model as well as be explored and analyzed for biological significance and relevance.
 <img src="Method Overview.png" width="470" height="200" />
+
