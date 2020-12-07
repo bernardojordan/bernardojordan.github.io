@@ -1,6 +1,6 @@
 ### Background
 
-Glioblastoma is a highly aggressive form of primary brain tumor that is not fully understood. Even with our current advancements in treatments, the survival rate of patients is very poor. Therefore, research is being done in detecting and understanding low grade glioblastoma in hopes of providing better treatment. 
+Glioblastoma is a highly aggressive form of primary brain tumor that is not fully understood. Even with our current advancements in treatments, the survival rate of patients is very poor. Therefore, research is being done in detecting and understanding Low-Grade Glioblastoma in hopes of providing better treatment. 
 
 ### Objectives
 
@@ -21,7 +21,7 @@ To achieve the goals laid out, a process was created in which Pathway Eigengenes
 <img src="Images/Method Overview.png" width="600" height="300" />
 
 ### Classification Results
-Accuracy Results show that the Pathway Approach gave an increase in Accuracy for most models.
+Accuracy results show that the Pathway Approach gave an increase in accuracy for most models.
 
 <img src="Images/Accuracy Results.PNG" width="550" height="300" />
 
@@ -35,7 +35,7 @@ Gene Nodes directly connected to the Glioblastoma Node in the Gene Bayesian Netw
 
 <img src="Images/Gene network snippet.png" width="600" height="300" />
 
-While the Gene network made more connections but literature analysis showed that not all genes were biogically relevant. This shows the advantages of using a Pathway Approach when working with biological data.
+While the Gene network made more connections, literature analysis showed that not all genes were biogically relevant. This shows the advantages of using a Pathway Approach when working with biological data.
 
 <img src="Images/Literature Analysis.PNG" width="550" height="300" />
 
