@@ -1,6 +1,6 @@
 ### Author: Bernardo Jordan
 
-### Astract
+### Abstract
 
 Glioblastoma is a highly aggressive form of primary brain tumor that is not fully understood. Even with our current advancements in treatments, the survival rate of patients is very poor. Therefore, research is being done in detecting and understanding low grade glioblastoma in hopes of providing better treatment. 
 
